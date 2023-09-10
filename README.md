@@ -1,6 +1,6 @@
 # face_and_emotion_detection
 
-##基本介绍
+## 基本介绍
 Enhanced_data.py文件是用于数据增强，将图片进行翻转，缩放，反转等操作
 
 opcvface2.py文件是运行摄像头实现实时的人脸表情识别
